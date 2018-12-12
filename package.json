@@ -1,0 +1,21 @@
+{
+  "name": "stellar",
+  "version": "1.0.0",
+  "main": "genAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/database": "^0.3.7",
+    "express": "^4.16.4",
+    "firebase": "^5.7.0",
+    "firebase-admin": "^6.3.0",
+    "helmet": "^3.15.0",
+    "node-forge": "^0.7.6",
+    "node-yaml": "^3.1.1",
+    "stellar-sdk": "^0.11.0"
+  },
+  "description": ""
+}
